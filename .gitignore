@@ -1,7 +1,0 @@
-.vscode/
-*.class
-out/
-target/
-*.jar
-.DS_Store
-Thumbs.db
